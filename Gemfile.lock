@@ -10,7 +10,7 @@ GEM
     polyglot (0.3.5)
     pony (1.11)
       mail (>= 2.6)
-    rack (1.6.0)
+    rack (1.6.13)
     rack-protection (1.5.3)
       rack
     shotgun (0.9)
